@@ -1,0 +1,367 @@
+{
+  "language": {
+    "code": "id",
+    "label": "Bahasa Indonesia"
+  },
+  "terms": {
+    "title": "Ketentuan Penggunaan Ai Lazy Pack",
+    "version": "Versi: 1.0",
+    "effectiveDate": "Tanggal Berlaku: Harap diisi",
+    "notice": "Pemberitahuan Penting: Harap baca Ketentuan ini dengan saksama sebelum menggunakan Layanan. Jika Anda tidak setuju, segera hentikan penggunaan dan hapus instalasi Layanan.",
+    "sections": [
+      {
+        "title": "1. Sifat Layanan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ai Lazy Pack adalah kotak peralatan kecerdasan buatan yang menawarkan percakapan dan pembuatan konten melalui berbagai model AI. Seluruh keluaran dihasilkan secara otomatis oleh algoritma dan hanya untuk referensi umum, pembelajaran, serta hiburan. Layanan ini tidak memberikan saran profesional."
+          }
+        ]
+      },
+      {
+        "title": "2. Kelayakan Pengguna",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Anda harus telah mencapai usia legal di yurisdiksi Anda atau memperoleh persetujuan wali. Jangan gunakan Layanan apabila hukum, kebijakan, atau sanksi setempat melarangnya."
+          }
+        ]
+      },
+      {
+        "title": "3. Keamanan Akun",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Anda bertanggung jawab menjaga kredensial akun dan menanggung seluruh tindakan serta biaya yang terkait dengan akun Anda. Segera beri tahu kami jika terjadi penggunaan tanpa izin."
+          }
+        ]
+      },
+      {
+        "title": "4. Kuota Gratis dan Pengisian Koin",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Layanan menyediakan kuota gratis terbatas. Setelah habis, Anda harus membeli koin untuk melanjutkan penggunaan. Seluruh pengisian bersifat final dan tidak dapat dikembalikan, dialihkan, maupun diuangkan kecuali diwajibkan oleh hukum."
+          },
+          {
+            "type": "paragraph",
+            "text": "Koin virtual bukan mata uang dan hanya dapat digunakan di dalam Layanan."
+          }
+        ]
+      },
+      {
+        "title": "5. Perilaku yang Dilarang",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Jangan gunakan Layanan untuk aktivitas ilegal, melanggar hak, penipuan, penyalahgunaan, serangan sistem, atau upaya menghindari pembatasan. Kami dapat menghentikan akses tanpa pemberitahuan sebelumnya."
+          }
+        ]
+      },
+      {
+        "title": "6. Tanggung Jawab atas Konten Pengguna",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Anda sepenuhnya bertanggung jawab atas seluruh konten yang Anda kirimkan atau hasilkan dan menyatakan bahwa konten tersebut tidak melanggar hak pihak ketiga. Kami dapat menghapus konten yang melanggar Ketentuan ini."
+          }
+        ]
+      },
+      {
+        "title": "7. Layanan AI Pihak Ketiga",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Layanan dapat bergantung pada model AI atau API eksternal. Ketersediaan serta hasilnya berada di luar kendali penuh kami. Kami tidak bertanggung jawab atas gangguan, perubahan, atau konten dari pihak ketiga."
+          }
+        ]
+      },
+      {
+        "title": "8. Penggunaan Non-Profesional",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Seluruh respons dihasilkan secara otomatis dan tidak merupakan nasihat medis, hukum, investasi, keuangan, psikologis, teknik, atau nasihat profesional lainnya."
+          },
+          {
+            "type": "paragraph",
+            "text": "Anda tidak boleh mengandalkan Layanan untuk dasar pengambilan keputusan."
+          },
+          {
+            "type": "paragraph",
+            "text": "Mintalah saran dari profesional yang berkualifikasi jika diperlukan."
+          }
+        ]
+      },
+      {
+        "title": "9. Tanggung Risiko Sendiri",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Anda memahami dan menyetujui bahwa seluruh risiko dari penggunaan Layanan—termasuk kehilangan data, kesalahan penilaian, dan kerugian keputusan—ditanggung oleh Anda. Kami tidak bertanggung jawab atas penggunaan atau hasilnya."
+          }
+        ]
+      },
+      {
+        "title": "10. Penafian dan Pelepasan Tanggung Jawab Menyeluruh",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Sepanjang diizinkan oleh hukum, Anda secara tidak dapat ditarik kembali melepaskan hal-hal berikut:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Setiap klaim, tanggung jawab, atau gugatan terhadap Layanan atau penyedianya.",
+              "Setiap tuntutan agar kami bertanggung jawab atas kerusakan, kerugian, biaya, konsekuensi, atau klaim pihak ketiga.",
+              "Setiap hak atas pengembalian dana, kompensasi, atau ganti rugi finansial."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Jika Anda tidak setuju, segera hentikan penggunaan Layanan."
+          }
+        ]
+      },
+      {
+        "title": "11. Tanpa Jaminan dan Kewajiban",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Layanan disediakan \"apa adanya\" dan \"sepanjang tersedia\" tanpa jaminan mengenai akurasi, kesinambungan, kesesuaian, atau keandalan hasil."
+          },
+          {
+            "type": "paragraph",
+            "text": "Kami tidak berkewajiban memenuhi ekspektasi atau tujuan penggunaan tertentu."
+          }
+        ]
+      },
+      {
+        "title": "12. Identitas Penyedia (Penting)",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ai Lazy Pack disediakan atas kapasitas individu dan tidak memiliki lisensi profesional maupun bertindak sebagai wali amanat, agen, atau konsultan."
+          },
+          {
+            "type": "paragraph",
+            "text": "Penyedia tidak menanggung tanggung jawab profesional apa pun."
+          }
+        ]
+      },
+      {
+        "title": "13. Perubahan atau Penghentian Layanan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami dapat mengubah, membatasi, menangguhkan, atau menghentikan Layanan kapan saja tanpa pemberitahuan terlebih dahulu."
+          }
+        ]
+      },
+      {
+        "title": "14. Penyelesaian Sengketa",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Jika terjadi sengketa, para pihak terlebih dahulu harus berupaya melakukan negosiasi damai. Jika gagal, sengketa akan ditangani oleh lembaga arbitrase di lokasi penyedia."
+          }
+        ]
+      },
+      {
+        "title": "15. Pembaruan Ketentuan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami dapat memperbarui Ketentuan ini dari waktu ke waktu. Versi terbaru yang dipublikasikan dalam Layanan berlaku. Penggunaan berkelanjutan berarti Anda menerima pembaruan tersebut."
+          }
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Kebijakan Privasi Ai Lazy Pack",
+    "version": "Versi: 1.0",
+    "effectiveDate": "Tanggal Berlaku: Harap diisi",
+    "updatedDate": "Pembaruan Terakhir: Harap diisi",
+    "intro": "Kebijakan Privasi ini menjelaskan bagaimana Ai Lazy Pack (\"Layanan\") mengumpulkan, menggunakan, menyimpan, membagikan, dan melindungi data Anda. Dengan menggunakan atau terus menggunakan Layanan, Anda menyatakan telah membaca, memahami, dan menyetujui Kebijakan ini. Jika tidak setuju, mohon untuk tidak menggunakan Layanan.",
+    "sections": [
+      {
+        "title": "1. Ruang Lingkup",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kebijakan ini berlaku ketika Anda menggunakan Layanan (aplikasi seluler, situs web, atau API). Kebijakan ini tidak mencakup interaksi Anda dengan pihak ketiga atau praktik privasi mereka (misalnya penyedia AI eksternal, pemroses pembayaran, atau layanan cloud)."
+          }
+        ]
+      },
+      {
+        "title": "2. Data yang Kami Kumpulkan (Prinsip Minimal)",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami hanya mengumpulkan data minimum yang diperlukan untuk menyediakan Layanan, biasanya meliputi:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Informasi perangkat dan teknis (mungkin dianonimkan): seperti versi sistem, model perangkat, bahasa, dan wilayah perkiraan; digunakan untuk mencegah penyalahgunaan, mengelola risiko keamanan, dan meningkatkan stabilitas.",
+              "Catatan penggunaan: seperti jumlah percakapan, penggunaan fitur, riwayat isi ulang dan pengeluaran koin, serta log kesalahan; digunakan untuk menyediakan dan memelihara fitur, memecahkan masalah, dan memberikan dukungan.",
+              "Konten yang Anda berikan: teks, file, atau materi lain yang Anda kirim melalui Layanan (\"Konten Pengguna\"), hanya digunakan untuk menghasilkan respons dan menghadirkan fungsi yang diminta."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Kami tidak bermaksud mengumpulkan nama asli, nomor identitas, lokasi presisi, nomor kartu bank, atau informasi identitas pribadi yang tidak diperlukan. Pembayaran diproses oleh penyedia pihak ketiga; kami tidak mengakses atau menyimpan detail lengkap kartu pembayaran Anda."
+          }
+        ]
+      },
+      {
+        "title": "3. Cara Kami Menggunakan Data",
+        "content": [
+          {
+            "type": "list",
+            "items": [
+              "Untuk menyediakan, mengoperasikan, dan meningkatkan Layanan (misalnya menghasilkan respons AI, menghitung penggunaan, dan mendeteksi anomali).",
+              "Untuk mencegah penyalahgunaan, penipuan, atau insiden keamanan (misalnya melewati kuota gratis atau menyerang sistem).",
+              "Untuk memenuhi kewajiban hukum atau melindungi pengguna dan keselamatan publik.",
+              "Untuk melakukan analitik anonim dan agregat (tanpa mengidentifikasi pengguna individu) demi meningkatkan pengalaman dan kinerja."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Layanan Pihak Ketiga dan Transfer Lintas Batas",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami dapat menggunakan penyedia model AI pihak ketiga, hosting cloud, atau layanan pembayaran. Pihak ketiga tersebut beroperasi menurut ketentuan dan kebijakan mereka sendiri dan mungkin berada di yurisdiksi yang berbeda. Saat Anda menggunakan Layanan, data Anda dapat ditransfer atau diproses lintas batas. Kami hanya berinteraksi dengan pihak ketiga jika diperlukan untuk menyediakan fungsionalitas dan berupaya menghadirkan perlindungan kontraktual atas data sejauh memungkinkan."
+          }
+        ]
+      },
+      {
+        "title": "5. Cookie dan Teknologi Pelacakan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Jika situs web menggunakan cookie atau teknologi serupa, penggunaannya dibatasi untuk keperluan penting seperti pemeliharaan sesi, preferensi bahasa, dan keamanan. Kami tidak melakukan pelacakan iklan berbasis perilaku."
+          }
+        ]
+      },
+      {
+        "title": "6. Penyimpanan Data",
+        "content": [
+          {
+            "type": "list",
+            "items": [
+              "Konten pengguna: dapat disimpan sementara untuk memberikan respons dan pemecahan masalah, lalu dihapus atau dianonimkan setelah tujuan terpenuhi.",
+              "Catatan penggunaan dan transaksi: disimpan selama diperlukan untuk mencegah penyalahgunaan, rekonsiliasi akun, atau mematuhi kewajiban hukum, kemudian dihapus atau dianonimkan."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Lama penyimpanan berbeda bergantung pada jenis data, tujuan, persyaratan hukum, dan kebutuhan operasional, mengikuti prinsip minimisasi."
+          }
+        ]
+      },
+      {
+        "title": "7. Keamanan Data",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami menerapkan langkah teknis dan organisasi yang wajar serta proporsional (seperti kontrol akses, enkripsi, audit, dan cadangan) untuk melindungi data. Namun, tidak ada sistem yang dapat menjamin keamanan mutlak; Anda menerima risiko bawaan dari transmisi data melalui internet."
+          }
+        ]
+      },
+      {
+        "title": "8. Pengguna di Bawah Umur",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Layanan tidak ditujukan bagi pengguna berusia di bawah 18 tahun. Jika kami mengetahui seorang anak di bawah umur mengirim data atau menggunakan Layanan, kami akan mengambil langkah yang wajar untuk membatasi akses dan menghapus data atau akun tersebut bila diperlukan."
+          }
+        ]
+      },
+      {
+        "title": "9. Hak Anda",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Bergantung pada hukum yang berlaku (misalnya GDPR, PDPA, CCPA, PDPO, dan lainnya), Anda mungkin memiliki hak untuk mengakses, memperbaiki, menghapus, membatasi pemrosesan, menerima salinan, menolak pemrosesan, atau menarik persetujuan. Kami akan menanggapi dalam jangka waktu yang wajar dan menangani permintaan sesuai hukum."
+          },
+          {
+            "type": "paragraph",
+            "text": "Kami mungkin memerlukan verifikasi identitas sebelum memproses permintaan guna melindungi keamanan akun."
+          }
+        ]
+      },
+      {
+        "title": "10. Hal yang Tidak Kami Lakukan",
+        "content": [
+          {
+            "type": "list",
+            "items": [
+              "Kami tidak menjual data pribadi Anda.",
+              "Kami tidak membagikan data pribadi Anda untuk iklan perilaku lintas situs.",
+              "Kami tidak memproses data Anda dengan cara yang bertentangan dengan Kebijakan ini."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "11. Dasar Hukum",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami umumnya memproses data berdasarkan sedikitnya satu dasar hukum: menjalankan kontrak (memberikan fitur yang diminta), memperoleh persetujuan Anda, mengejar kepentingan sah (operasi, anti-penipuan, keamanan), atau memenuhi kewajiban hukum (merespons otoritas)."
+          }
+        ]
+      },
+      {
+        "title": "12. Penafian untuk Konten dan Layanan Pihak Ketiga",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Layanan AI, cloud, atau pembayaran milik pihak ketiga bertanggung jawab atas ketersediaan, akurasi, legalitas, dan kepatuhan mereka sendiri. Kami tidak bertanggung jawab atas konten, kesalahan, gangguan, keterlambatan, atau kerugian yang timbul dari pihak ketiga tersebut."
+          }
+        ]
+      },
+      {
+        "title": "13. Kontak dan Permintaan Data",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Jika Anda memiliki pertanyaan mengenai Kebijakan ini atau ingin mengajukan permintaan akses atau penghapusan data, hubungi: crystal.life.at.hk@gmail.com."
+          },
+          {
+            "type": "paragraph",
+            "text": "Berikan informasi yang cukup untuk memverifikasi identitas Anda dan ruang lingkup permintaan saat menghubungi kami."
+          }
+        ]
+      },
+      {
+        "title": "14. Pembaruan Kebijakan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami dapat memperbarui Kebijakan ini dari waktu ke waktu. Perubahan penting akan diumumkan di dalam Layanan atau situs web. Kecuali dinyatakan lain, pembaruan berlaku saat dipublikasikan; penggunaan berkelanjutan berarti Anda menerima perubahan tersebut."
+          }
+        ]
+      },
+      {
+        "title": "15. Penyelesaian Sengketa dan Hukum yang Berlaku (Global)",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami mendorong penyelesaian sengketa privasi secara damai. Jika negosiasi gagal, Anda setuju untuk menjalani arbitrase di yurisdiksi penyedia. Ketentuan perlindungan konsumen yang bersifat wajib akan mengesampingkan ketentuan yang bertentangan."
+          }
+        ]
+      }
+    ]
+  },
+  "consent": {
+    "title": "Lampiran: Notifikasi Persetujuan (Modal Peluncuran Pertama untuk Aplikasi/Web)",
+    "text": "Dengan menggunakan Layanan ini, Anda menyetujui Kebijakan Privasi dan Ketentuan Penggunaan. Kami hanya mengumpulkan data minimum yang diperlukan untuk menyediakan fitur dan tidak menjual data pribadi Anda. Anda dapat meninjau kebijakan dan meminta penghapusan kapan saja melalui tautan di dalam aplikasi."
+  },
+  "contact": "Kontak: crystal.life.at.hk@gmail.com"
+}
+

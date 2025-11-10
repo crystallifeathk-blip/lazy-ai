@@ -1,17 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Terms and Conditions</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
-    h1 { color: #333; }
-  </style>
-</head>
-<body>
-  <h1>Terms and Conditions</h1>
-  <p>Last updated: November 2025</p>
-  <p>Welcome to our app! By using this application, you agree to the following terms...</p>
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ai Lazy Pack Policies</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="branding">
+        <h1>Ai Lazy Pack</h1>
+        <p class="tagline">Terms of Use &amp; Privacy Policy</p>
+      </div>
+      <div class="controls">
+        <label for="languageSelect">Language</label>
+        <select id="languageSelect" aria-label="Select language"></select>
+      </div>
+    </header>
+    <main id="content" class="site-main">
+      <section class="document" id="termsSection">
+        <header>
+          <h2 id="termsTitle"></h2>
+          <p id="termsMeta" class="document-meta"></p>
+          <p id="termsNotice" class="document-notice"></p>
+        </header>
+        <div id="termsBody" class="document-body"></div>
+      </section>
+      <section class="document" id="privacySection">
+        <header>
+          <h2 id="privacyTitle"></h2>
+          <p id="privacyMeta" class="document-meta"></p>
+          <p id="privacyIntro" class="document-intro"></p>
+        </header>
+        <div id="privacyBody" class="document-body"></div>
+      </section>
+      <section class="supplemental" id="consentSection">
+        <h3 id="consentTitle"></h3>
+        <p id="consentText"></p>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <p id="contactInfo"></p>
+      <p class="attribution">Built for publication on GitHub Pages.</p>
+    </footer>
+    <div id="statusMessage" role="status" aria-live="polite"></div>
+    <script src="app.js"></script>
+  </body>
 </html>
+

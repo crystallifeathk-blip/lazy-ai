@@ -1,0 +1,367 @@
+{
+  "language": {
+    "code": "ms",
+    "label": "Bahasa Melayu"
+  },
+  "terms": {
+    "title": "Terma Penggunaan Ai Lazy Pack",
+    "version": "Versi: 1.0",
+    "effectiveDate": "Tarikh Berkuat Kuasa: Sila isikan",
+    "notice": "Notis Penting: Sila baca Terma ini dengan teliti sebelum menggunakan Perkhidmatan. Jika anda tidak bersetuju, hentikan penggunaan dan nyahpasang Perkhidmatan serta-merta.",
+    "sections": [
+      {
+        "title": "1. Sifat Perkhidmatan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ai Lazy Pack ialah kotak alat kecerdasan buatan yang menawarkan perbualan dan penjanaan kandungan melalui pelbagai model AI. Semua output dijana secara automatik oleh algoritma dan hanya untuk rujukan umum, pembelajaran dan hiburan. Perkhidmatan ini tidak menyediakan nasihat profesional."
+          }
+        ]
+      },
+      {
+        "title": "2. Kelayakan Pengguna",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Anda mesti mencapai umur sah di bidang kuasa anda atau memperoleh kebenaran penjaga. Jangan gunakan Perkhidmatan jika undang-undang, dasar atau sekatan tempatan melarangnya."
+          }
+        ]
+      },
+      {
+        "title": "3. Keselamatan Akaun",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Anda bertanggungjawab melindungi kelayakan akaun dan menanggung semua tindakan serta caj yang berkaitan dengan akaun anda. Maklumkan kami segera jika terdapat penggunaan tanpa kebenaran."
+          }
+        ]
+      },
+      {
+        "title": "4. Kuota Percuma dan Tambah Nilai Syiling",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Perkhidmatan menyediakan kuota percuma terhad. Setelah habis, anda perlu membeli syiling untuk meneruskan penggunaan. Semua tambah nilai adalah transaksi muktamad dan tidak boleh dikembalikan, dipindahkan atau ditebus tunai kecuali dikehendaki oleh undang-undang."
+          },
+          {
+            "type": "paragraph",
+            "text": "Syiling maya bukan mata wang dan hanya boleh digunakan dalam Perkhidmatan."
+          }
+        ]
+      },
+      {
+        "title": "5. Tingkah Laku Dilarang",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Jangan gunakan Perkhidmatan untuk aktiviti haram, melanggar hak, penipuan, penyalahgunaan, serangan sistem atau percubaan memintas sekatan. Kami boleh menamatkan akses tanpa notis terlebih dahulu."
+          }
+        ]
+      },
+      {
+        "title": "6. Tanggungjawab Kandungan Pengguna",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Anda bertanggungjawab sepenuhnya terhadap semua kandungan yang dihantar atau dijana dan menjamin bahawa kandungan tersebut tidak melanggar hak pihak ketiga. Kami boleh mengalih keluar kandungan yang melanggar Terma ini."
+          }
+        ]
+      },
+      {
+        "title": "7. Perkhidmatan AI Pihak Ketiga",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Perkhidmatan mungkin bergantung kepada model AI atau API luar. Ketersediaan dan hasilnya berada di luar kawalan penuh kami. Kami tidak bertanggungjawab atas gangguan, perubahan atau kandungan daripada pihak ketiga."
+          }
+        ]
+      },
+      {
+        "title": "8. Penggunaan Bukan Profesional",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Semua respons dijana secara automatik dan tidak merupakan nasihat perubatan, undang-undang, pelaburan, kewangan, psikologi, kejuruteraan atau nasihat profesional lain."
+          },
+          {
+            "type": "paragraph",
+            "text": "Anda tidak boleh bergantung pada Perkhidmatan untuk membuat keputusan."
+          },
+          {
+            "type": "paragraph",
+            "text": "Dapatkan nasihat daripada profesional bertauliah apabila perlu."
+          }
+        ]
+      },
+      {
+        "title": "9. Tanggung Risiko Sendiri",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Anda memahami dan bersetuju bahawa semua risiko daripada penggunaan Perkhidmatan, termasuk kehilangan data, kesilapan pertimbangan dan kerugian keputusan, ditanggung oleh anda. Kami tidak bertanggungjawab terhadap penggunaan atau hasilnya."
+          }
+        ]
+      },
+      {
+        "title": "10. Penepian dan Pelepasan Liabiliti Menyeluruh",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Setakat yang dibenarkan oleh undang-undang, anda secara tidak boleh batal mengetepikan perkara berikut:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Sebarang tuntutan, liabiliti atau tindakan terhadap Perkhidmatan atau penyedianya.",
+              "Sebarang tuntutan agar kami bertanggungjawab atas kerosakan, kerugian, kos, akibat atau tuntutan pihak ketiga.",
+              "Sebarang hak untuk bayaran balik, pampasan atau ganjaran kewangan."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Jika anda tidak bersetuju, hentikan penggunaan Perkhidmatan segera."
+          }
+        ]
+      },
+      {
+        "title": "11. Tanpa Jaminan atau Kewajipan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Perkhidmatan disediakan \"seadanya\" dan \"setakat tersedia\" tanpa jaminan terhadap ketepatan, kesinambungan, kesesuaian atau kebolehpercayaan keputusan."
+          },
+          {
+            "type": "paragraph",
+            "text": "Kami tidak bertanggungjawab memenuhi sebarang jangkaan atau tujuan penggunaan tertentu."
+          }
+        ]
+      },
+      {
+        "title": "12. Identiti Penyedia (Penting)",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ai Lazy Pack disediakan atas kapasiti individu dan tidak mempunyai lesen profesional atau bertindak sebagai pemegang amanah, ejen atau perunding."
+          },
+          {
+            "type": "paragraph",
+            "text": "Penyedia tidak menanggung sebarang liabiliti profesional."
+          }
+        ]
+      },
+      {
+        "title": "13. Perubahan atau Penamatan Perkhidmatan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami boleh mengubah suai, mengehadkan, menggantung atau menamatkan Perkhidmatan pada bila-bila masa tanpa notis awal."
+          }
+        ]
+      },
+      {
+        "title": "14. Penyelesaian Pertikaian",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Sekiranya berlaku pertikaian, pihak-pihak hendaklah terlebih dahulu berunding secara baik. Jika gagal, pertikaian akan dikendalikan oleh institusi timbang tara di lokasi penyedia."
+          }
+        ]
+      },
+      {
+        "title": "15. Kemas Kini Terma",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami boleh mengemas kini Terma ini dari semasa ke semasa. Versi terkini yang diterbitkan dalam Perkhidmatan adalah terpakai. Penggunaan berterusan menandakan penerimaan anda terhadap sebarang kemas kini."
+          }
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Dasar Privasi Ai Lazy Pack",
+    "version": "Versi: 1.0",
+    "effectiveDate": "Tarikh Berkuat Kuasa: Sila isikan",
+    "updatedDate": "Kemas Kini Terakhir: Sila isikan",
+    "intro": "Dasar Privasi ini menerangkan bagaimana Ai Lazy Pack (\"Perkhidmatan\") mengumpul, menggunakan, menyimpan, berkongsi dan melindungi data anda. Dengan menggunakan atau meneruskan penggunaan Perkhidmatan, anda mengakui bahawa anda telah membaca, memahami dan bersetuju dengan Dasar ini. Jika anda tidak bersetuju, sila jangan gunakan Perkhidmatan.",
+    "sections": [
+      {
+        "title": "1. Skop",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Dasar ini terpakai apabila anda menggunakan Perkhidmatan (aplikasi mudah alih, laman web atau API). Ia tidak meliputi interaksi anda dengan pihak ketiga atau amalan privasi mereka (contohnya penyedia AI luar, pemproses pembayaran atau perkhidmatan awan)."
+          }
+        ]
+      },
+      {
+        "title": "2. Data yang Kami Kumpul (Prinsip Minimum)",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami hanya mengumpul data minimum yang diperlukan untuk menyediakan Perkhidmatan, biasanya termasuk:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Maklumat peranti dan teknikal (mungkin dianonimkan): seperti versi sistem, model peranti, bahasa dan kawasan anggaran; digunakan untuk mencegah penyalahgunaan, mengurus risiko keselamatan dan meningkatkan kestabilan.",
+              "Rekod penggunaan: seperti bilangan perbualan, penggunaan ciri, sejarah tambah nilai dan perbelanjaan syiling, serta log ralat; digunakan untuk menyediakan dan mengekalkan ciri, menyelesaikan masalah dan memberi sokongan.",
+              "Kandungan yang anda serahkan: teks, fail atau bahan lain yang anda sediakan dalam Perkhidmatan (\"Kandungan Pengguna\"), hanya digunakan untuk menjana respons dan menyampaikan fungsi yang diminta."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Kami tidak berniat mengumpul nama sebenar, nombor pengenalan, lokasi tepat, nombor kad bank atau maklumat pengenalan peribadi yang tidak perlu. Pembayaran diproses oleh penyedia pihak ketiga; kami tidak mengakses atau menyimpan butiran penuh kad pembayaran anda."
+          }
+        ]
+      },
+      {
+        "title": "3. Cara Kami Menggunakan Data",
+        "content": [
+          {
+            "type": "list",
+            "items": [
+              "Menyediakan, mengendalikan dan menambah baik Perkhidmatan (contohnya menjana respons AI, mengira penggunaan dan mengesan anomali).",
+              "Mencegah penyalahgunaan, penipuan atau insiden keselamatan (contohnya memintas kuota percuma atau menyerang sistem).",
+              "Mematuhi kewajipan undang-undang atau melindungi pengguna dan keselamatan awam.",
+              "Menjalankan analitik tanpa nama dan agregat (tanpa mengenal pasti pengguna individu) untuk penambahbaikan pengalaman dan prestasi."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Perkhidmatan Pihak Ketiga dan Pemindahan Rentas Sempadan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami mungkin menggunakan penyedia model AI pihak ketiga, pengehosan awan atau perkhidmatan pembayaran. Pihak ketiga ini beroperasi mengikut terma dan dasar mereka sendiri dan mungkin berada di bidang kuasa yang berbeza daripada anda. Apabila anda menggunakan Perkhidmatan, data anda mungkin dipindahkan atau diproses di luar negara. Kami hanya berurusan dengan pihak ketiga apabila perlu untuk menyampaikan fungsi dan akan mendapatkan perlindungan kontrak untuk data sejauh yang boleh."
+          }
+        ]
+      },
+      {
+        "title": "5. Kuki dan Teknologi Penjejakan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Jika laman web menggunakan kuki atau teknologi serupa, ia terhad kepada tujuan penting seperti mengekalkan sesi, keutamaan bahasa dan keselamatan. Kami tidak menjalankan pengesanan pengiklanan tingkah laku."
+          }
+        ]
+      },
+      {
+        "title": "6. Penyimpanan Data",
+        "content": [
+          {
+            "type": "list",
+            "items": [
+              "Kandungan pengguna: mungkin disimpan sementara untuk memberikan respons dan menyelesaikan masalah, kemudian dipadamkan atau dianonimkan selepas tujuan dipenuhi.",
+              "Rekod penggunaan dan transaksi: disimpan untuk tempoh yang diperlukan bagi mencegah penyalahgunaan, penyelarasan akaun atau mematuhi undang-undang, kemudian dipadamkan atau dianonimkan."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Tempoh penyimpanan berbeza mengikut jenis data, tujuan, keperluan undang-undang dan keperluan operasi, selaras dengan prinsip minimisasi."
+          }
+        ]
+      },
+      {
+        "title": "7. Keselamatan Data",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami melaksanakan langkah teknikal dan organisasi yang munasabah serta seimbang (seperti kawalan akses, penyulitan, audit dan sandaran) untuk melindungi data. Walau bagaimanapun, tiada sistem yang menjamin keselamatan mutlak; anda menerima risiko bawaan penghantaran data melalui internet."
+          }
+        ]
+      },
+      {
+        "title": "8. Kanak-kanak Bawah Umur",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Perkhidmatan tidak ditujukan kepada pengguna bawah 18 tahun. Jika kami mengetahui seorang bawah umur telah menyerahkan data atau menggunakan Perkhidmatan, kami akan mengambil langkah munasabah untuk mengehadkan akses dan memadamkan data atau akaun tersebut apabila perlu."
+          }
+        ]
+      },
+      {
+        "title": "9. Hak Anda",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Tertakluk kepada undang-undang yang terpakai (seperti GDPR, PDPA, CCPA, PDPO dan lain-lain), anda mungkin mempunyai hak untuk mengakses, membetulkan, memadam, mengehadkan pemprosesan, menerima salinan, membantah pemprosesan atau menarik balik persetujuan. Kami akan memberi respons dalam tempoh munasabah dan mengendalikan permintaan mengikut undang-undang."
+          },
+          {
+            "type": "paragraph",
+            "text": "Kami mungkin memerlukan pengesahan identiti sebelum memproses permintaan bagi melindungi keselamatan akaun."
+          }
+        ]
+      },
+      {
+        "title": "10. Apa yang Kami Tidak Lakukan",
+        "content": [
+          {
+            "type": "list",
+            "items": [
+              "Kami tidak menjual data peribadi anda.",
+              "Kami tidak berkongsi data peribadi anda untuk pengiklanan tingkah laku rentas laman.",
+              "Kami tidak memproses data anda dengan cara yang bercanggah dengan Dasar ini."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "11. Asas Perundangan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami biasanya memproses data berdasarkan sekurang-kurangnya satu asas perundangan: melaksanakan kontrak (menyediakan ciri yang diminta), mendapatkan persetujuan anda, mengejar kepentingan sah (operasi, anti-penipuan, keselamatan) atau memenuhi kewajipan undang-undang (menjawab pihak berkuasa)."
+          }
+        ]
+      },
+      {
+        "title": "12. Penafian untuk Kandungan dan Perkhidmatan Pihak Ketiga",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Perkhidmatan AI, awan atau pembayaran pihak ketiga bertanggungjawab terhadap ketersediaan, ketepatan, kesahan dan pematuhan mereka sendiri. Kami tidak bertanggungjawab ke atas kandungan, ralat, gangguan, kelewatan atau kerosakan yang berpunca daripada pihak ketiga."
+          }
+        ]
+      },
+      {
+        "title": "13. Hubungi Kami dan Permintaan Data",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Jika anda mempunyai soalan mengenai Dasar ini atau ingin membuat permintaan akses atau pemadaman data, hubungi: crystal.life.at.hk@gmail.com."
+          },
+          {
+            "type": "paragraph",
+            "text": "Sertakan maklumat mencukupi untuk mengesahkan identiti anda dan skop permintaan apabila menghubungi kami."
+          }
+        ]
+      },
+      {
+        "title": "14. Kemas Kini Dasar",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami boleh mengemas kini Dasar ini dari semasa ke semasa. Perubahan penting akan diumumkan dalam Perkhidmatan atau di laman web. Melainkan dinyatakan sebaliknya, kemas kini berkuat kuasa apabila diterbitkan; penggunaan berterusan bermakna anda menerima perubahan tersebut."
+          }
+        ]
+      },
+      {
+        "title": "15. Penyelesaian Pertikaian dan Undang-undang Terpakai (Global)",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami menggalakkan penyelesaian pertikaian privasi secara baik. Jika rundingan gagal, anda bersetuju dengan timbang tara di bidang kuasa penyedia. Undang-undang perlindungan pengguna mandatori mengatasi terma yang bercanggah."
+          }
+        ]
+      }
+    ]
+  },
+  "consent": {
+    "title": "Lampiran: Makluman Persetujuan (Pop-up Pelancaran Pertama untuk Aplikasi/Web)",
+    "text": "Dengan menggunakan Perkhidmatan ini, anda bersetuju dengan Dasar Privasi dan Terma Penggunaan. Kami hanya mengumpul data minimum yang diperlukan untuk menyampaikan ciri dan tidak menjual data peribadi anda. Anda boleh menyemak dasar dan meminta pemadaman pada bila-bila masa melalui pautan dalam aplikasi."
+  },
+  "contact": "Hubungi: crystal.life.at.hk@gmail.com"
+}
+

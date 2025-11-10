@@ -1,0 +1,367 @@
+{
+  "language": {
+    "code": "tl",
+    "label": "Filipino"
+  },
+  "terms": {
+    "title": "Mga Tuntunin ng Paggamit ng Ai Lazy Pack",
+    "version": "Bersyon: 1.0",
+    "effectiveDate": "Petsa ng Pagkabisa: Pakisagutan",
+    "notice": "Mahalagang Paalala: Pakibasa nang mabuti ang Mga Tuntuning ito bago gamitin ang Serbisyo. Kung hindi ka sumasang-ayon, ihinto agad ang paggamit at i-uninstall ang Serbisyo.",
+    "sections": [
+      {
+        "title": "1. Kalikasan ng Serbisyo",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ang Ai Lazy Pack ay isang toolbox ng artificial intelligence na nagbibigay ng mga usapan at pagbuo ng nilalaman gamit ang iba't ibang modelo ng AI. Ang lahat ng output ay awtomatikong nalilikha ng mga algoritmo at para lamang sa pangkalahatang sanggunian, pagkatuto, at libangan. Hindi nagbibigay ang Serbisyo ng propesyonal na payo."
+          }
+        ]
+      },
+      {
+        "title": "2. Kwalipikasyon ng Gumagamit",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Dapat ay nasa legal na edad ka sa iyong hurisdiksyon o may pahintulot ng magulang o tagapag-alaga. Huwag gamitin ang Serbisyo kung ipinagbabawal ito ng lokal na batas, patakaran, o parusa."
+          }
+        ]
+      },
+      {
+        "title": "3. Seguridad ng Account",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ikaw ang responsable sa pag-iingat ng iyong mga kredensyal at mananagot sa lahat ng kilos at gastusin na nauugnay sa iyong account. Ipabatid kaagad sa amin kung may hindi awtorisadong paggamit."
+          }
+        ]
+      },
+      {
+        "title": "4. Libreng Kuota at Pag-top-up ng Coin",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Nagbibigay ang Serbisyo ng limitadong libreng kuota. Kapag naubos na ito, kailangan mong bumili ng coins upang magpatuloy. Lahat ng pag-top-up ay pinal at hindi maibabalik, maililipat, o maiuuwi sa salapi maliban kung iniaatas ng batas."
+          },
+          {
+            "type": "paragraph",
+            "text": "Ang virtual coins ay hindi pera at maaari lamang gamitin sa loob ng Serbisyo."
+          }
+        ]
+      },
+      {
+        "title": "5. Ipinagbabawal na Gawain",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Huwag gamitin ang Serbisyo para sa ilegal, lumalabag, mapanlinlang, mapang-abuso, pag-atake sa sistema, o anumang pagtatangka na lampasan ang mga limitasyon. Maaari naming ihinto ang access nang walang paunang abiso."
+          }
+        ]
+      },
+      {
+        "title": "6. Pananagutan sa Nilalaman ng Gumagamit",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ganap kang responsable sa lahat ng nilalamang iyong inilalagay o nalilikha at pinatutunayan mong hindi ito lumalabag sa karapatan ng iba. Maaari naming alisin ang nilalamang lumalabag sa Mga Tuntuning ito."
+          }
+        ]
+      },
+      {
+        "title": "7. Mga Serbisyo ng AI ng Ikatlong Partido",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Maaaring umasa ang Serbisyo sa mga panlabas na modelo o API ng AI. Nasasailalim sa kanilang kontrol ang pagkakaroon at resulta. Hindi kami mananagot sa anumang pagkaantala, pagbabago, o nilalamang ibinibigay ng ikatlong partido."
+          }
+        ]
+      },
+      {
+        "title": "8. Hindi para sa Propesyonal na Paggamit",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ang lahat ng tugon ay awtomatikong nalilikha at hindi maituturing na payong medikal, legal, pamumuhunan, pinansyal, sikolohikal, inhinyeriya, o iba pang propesyonal na payo."
+          },
+          {
+            "type": "paragraph",
+            "text": "Hindi ka dapat umasa sa Serbisyo bilang batayan ng anumang desisyon."
+          },
+          {
+            "type": "paragraph",
+            "text": "Kumunsulta sa kwalipikadong propesyonal kapag kinakailangan."
+          }
+        ]
+      },
+      {
+        "title": "9. Pagtanggap ng Panganib",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Nauunawaan at sinasang-ayunan mong ikaw ang sasalo sa lahat ng panganib mula sa paggamit ng Serbisyo, kabilang ang pagkawala ng data, maling paghusga, at pagkalugi sa desisyon. Hindi kami mananagot sa iyong paggamit o sa kinalabasan nito."
+          }
+        ]
+      },
+      {
+        "title": "10. Buong Pagwawaksi at Pagkansela ng Reklamo",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Sa pinakamalawak na saklaw na pinapahintulutan ng batas, hindi na mababawi ang iyong pagwawaksi sa mga sumusunod:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Anumang paghahabol, pananagutan, o kaso laban sa Serbisyo o tagapagtustos nito.",
+              "Anumang kahilingan na panagutin kami sa pinsala, pagkalugi, gastos, resulta, o reklamo ng ikatlong partido.",
+              "Anumang karapatan sa refund, kabayaran, o bayad na salapi."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Kung hindi ka sumasang-ayon, ihinto agad ang paggamit ng Serbisyo."
+          }
+        ]
+      },
+      {
+        "title": "11. Walang Garantiya o Obligasyon",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ibinibigay ang Serbisyo nang \"kung ano ang naroon\" at \"ayon sa pagkakaroon\" nang walang garantiya sa katumpakan, tuloy-tuloy na operasyon, kaangkopan, o pagiging maaasahan ng mga resulta."
+          },
+          {
+            "type": "paragraph",
+            "text": "Wala kaming obligasyong tuparin ang anumang inaasahan o tiyak na layunin ng paggamit."
+          }
+        ]
+      },
+      {
+        "title": "12. Pagkakakilanlan ng Tagapagbigay (Mahalaga)",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Iniaalok ang Ai Lazy Pack sa personal na kapasidad at walang lisensiyang propesyonal o gampaning tagapangasiwa, ahente, o konsultant."
+          },
+          {
+            "type": "paragraph",
+            "text": "Hindi nananagot ang tagapagbigay sa anumang pananagutang propesyonal."
+          }
+        ]
+      },
+      {
+        "title": "13. Pagbabago o Pagwawakas ng Serbisyo",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Maaari naming baguhin, limitahan, suspendihin, o wakasan ang Serbisyo anumang oras nang walang paunang abiso."
+          }
+        ]
+      },
+      {
+        "title": "14. Pagresolba sa Alitan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kung may alitan, dapat munang magsikap ang mga panig na makipag-ayos nang maayos. Kapag nabigo, idaragdag ang kaso sa institusyong arbitrasyon sa kinaroroonan ng tagapagbigay."
+          }
+        ]
+      },
+      {
+        "title": "15. Mga Pag-update sa Tuntunin",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Maaari naming i-update ang Mga Tuntunin paminsan-minsan. Ang pinakabagong bersyon na inilathala sa Serbisyo ang umiiral. Ang patuloy na paggamit ay nangangahulugang tinatanggap mo ang mga pagbabago."
+          }
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Patakaran sa Privacy ng Ai Lazy Pack",
+    "version": "Bersyon: 1.0",
+    "effectiveDate": "Petsa ng Pagkabisa: Pakisagutan",
+    "updatedDate": "Huling Na-update: Pakisagutan",
+    "intro": "Nililinaw ng Patakarang ito kung paano nangongolekta, gumagamit, nag-iimbak, nagbabahagi, at nagpoprotekta ng iyong data ang Ai Lazy Pack (ang \"Serbisyo\"). Sa paggamit o patuloy na paggamit ng Serbisyo, kinikilala mong nabasa, naunawaan, at tinatanggap mo ang Patakarang ito. Kung hindi ka sumasang-ayon, huwag gamitin ang Serbisyo.",
+    "sections": [
+      {
+        "title": "1. Saklaw",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Saklaw ng Patakarang ito kapag ginagamit mo ang Serbisyo (mobile app, website, o API). Hindi nito saklaw ang iyong pakikipag-ugnayan sa mga ikatlong partido o ang kanilang mga gawi sa privacy (halimbawa, mga panlabas na tagapagbigay ng AI, tagaproseso ng bayad, o serbisyo sa ulap)."
+          }
+        ]
+      },
+      {
+        "title": "2. Mga Datos na Kinokolekta Namin (Prinsipyo ng Minimal)",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kinokolekta lamang namin ang pinakamaliit na datos na kailangan upang maihatid ang Serbisyo, karaniwang kinabibilangan ng:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Impormasyon sa device at teknikal (maaaring hindi kilalanin): gaya ng bersyon ng sistema, modelo ng device, wika, at tinatayang rehiyon; ginagamit upang pigilan ang pang-aabuso, pamahalaan ang panganib sa seguridad, at paghusayin ang katatagan.",
+              "Mga tala ng paggamit: gaya ng bilang ng pag-uusap, paggamit ng mga tampok, kasaysayan ng pag-top-up at paggastos ng coin, at mga log ng error; ginagamit upang maihatid at mapanatili ang mga tampok, lutasin ang problema, at magbigay ng suporta.",
+              "Nilalamang ibinibigay mo: teksto, file, o iba pang materyales na ipinapasok mo sa Serbisyo (\"Nilalaman ng Gumagamit\"), na ginagamit lamang para makabuo ng tugon at maihatid ang hinihiling na kakayahan."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Hindi namin sinasadyang kolektahin ang iyong tunay na pangalan, numero ng pagkakakilanlan, tiyak na lokasyon, numero ng bank card, o iba pang hindi kailangang personal na impormasyon. Ang mga pagbabayad ay pinoproseso ng ikatlong partido; wala kaming access o imbakan sa buong detalye ng iyong card."
+          }
+        ]
+      },
+      {
+        "title": "3. Paano Namin Ginagamit ang Datos",
+        "content": [
+          {
+            "type": "list",
+            "items": [
+              "Upang maihatid, mapatakbo, at mapabuti ang Serbisyo (halimbawa, pagbuo ng tugon ng AI, pagkalkula ng paggamit, at pagtukoy ng mga anomalya).",
+              "Upang pigilan ang pang-aabuso, panlilinlang, o insidente sa seguridad (halimbawa, pag-iwas sa libreng kuota o pag-atake sa sistema).",
+              "Upang tumupad sa mga obligasyong legal o maprotektahan ang mga gumagamit at kaligtasan ng publiko.",
+              "Upang magsagawa ng hindi nagpapakilalang at pinag-isang pagsusuri (hindi tumutukoy sa indibidwal na gumagamit) para sa pagpapainam ng karanasan at pagganap."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Mga Serbisyo ng Ikatlong Partido at Paglipat sa Ibang Bansa",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Maaari kaming gumamit ng mga tagapagbigay ng modelo ng AI, hosting sa ulap, o serbisyo sa pagbabayad na ikatlong partido. Gumagana sila ayon sa sarili nilang mga tuntunin at patakaran at maaaring nasa ibang hurisdiksyon. Kapag ginamit mo ang Serbisyo, maaaring mailipat o maproseso sa ibang bansa ang iyong datos. Nakikipag-ugnayan lamang kami sa kanila kung kailangan para sa kakayahang may tungkulin at naghahanap ng kontraktuwal na proteksyon sa datos hangga't maaari."
+          }
+        ]
+      },
+      {
+        "title": "5. Cookie at Teknolohiyang Pagsubaybay",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kung gumagamit ang website ng cookies o katulad na teknolohiya, ito ay limitado sa mahahalagang layunin tulad ng pagpapanatili ng sesyon, kagustuhan sa wika, at seguridad. Hindi kami nagsasagawa ng behavioral advertising tracking."
+          }
+        ]
+      },
+      {
+        "title": "6. Pagpapanatili ng Datos",
+        "content": [
+          {
+            "type": "list",
+            "items": [
+              "Nilalaman ng gumagamit: maaaring pansamantalang itago upang makapagbigay ng tugon at lutasin ang mga problema, pagkatapos ay buburahin o hindi na makikilalanan kapag natapos ang layunin.",
+              "Mga tala ng paggamit at transaksyon: pinananatili hangga't kailangan upang pigilan ang pang-aabuso, pagkakasundo ng account, o pagsunod sa batas, at tatanggalin o hindi na makikilalanan pagkatapos."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Nag-iiba ang haba ng pagpapanatili batay sa uri ng datos, layunin, mga kahingian sa batas, at pangangailangan sa operasyon, alinsunod sa prinsipyo ng pagbabawas."
+          }
+        ]
+      },
+      {
+        "title": "7. Seguridad ng Datos",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ipinapatupad namin ang makatwiran at proporsyonal na teknikal at organisasyonal na hakbang (tulad ng kontrol sa access, pag-encrypt, audit, at backup) upang protektahan ang datos. Gayunman, walang sistemang ganap na ligtas; tinatanggap mo ang likas na panganib ng pagpapadala ng datos sa internet."
+          }
+        ]
+      },
+      {
+        "title": "8. Mga Hindi Pa Nasa Gulang",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Hindi nakalaan ang Serbisyo para sa mga wala pang 18 taong gulang. Kapag nalaman naming may menor de edad na nagbigay ng datos o gumamit ng Serbisyo, magsasagawa kami ng makatwirang hakbang upang higpitan ang pag-access at tanggalin ang datos o account kung kinakailangan."
+          }
+        ]
+      },
+      {
+        "title": "9. Iyong mga Karapatan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ayon sa naaangkop na batas (tulad ng GDPR, PDPA, CCPA, PDPO, atbp.), maaari kang magkaroon ng karapatang mag-access, magwasto, magtanggal, maglimita ng pagproseso, tumanggap ng kopya, tumutol sa pagproseso, o bawiin ang pahintulot. Tumutugon kami sa makatuwirang panahon at pinoproseso ang kahilingan ayon sa batas."
+          },
+          {
+            "type": "paragraph",
+            "text": "Maaaring kailangan naming beripikahin ang iyong pagkakakilanlan bago iproseso ang kahilingan upang maprotektahan ang seguridad ng account."
+          }
+        ]
+      },
+      {
+        "title": "10. Ano ang Hindi Namin Ginagawa",
+        "content": [
+          {
+            "type": "list",
+            "items": [
+              "Hindi namin ibinebenta ang iyong personal na datos.",
+              "Hindi namin ibinabahagi ang iyong personal na datos para sa cross-site behavioral advertising.",
+              "Hindi namin pinoproseso ang iyong datos sa paraang salungat sa Patakarang ito."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "11. Batayang Legal",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Karaniwang pinoproseso namin ang datos base sa isa o higit pang batayang legal: pagtupad sa kontrata (pagbibigay ng hiniling na tampok), pagkuha ng iyong pahintulot, pagtugon sa lehitimong interes (operasyon, kontra-panlilinlang, seguridad), o pagtupad sa obligasyong legal (pagtugon sa mga awtoridad)."
+          }
+        ]
+      },
+      {
+        "title": "12. Pagwawaksi para sa Nilalaman at Serbisyo ng Ikatlong Partido",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "May pananagutan ang mga serbisyong AI, cloud, o pagbabayad ng ikatlong partido sa sarili nilang pagkakaroon, katumpakan, legalidad, at pagsunod. Hindi kami mananagot sa anumang nilalaman, error, pagkaantala, aberya, o pinsala mula sa kanila."
+          }
+        ]
+      },
+      {
+        "title": "13. Makipag-ugnayan at Kahilingan sa Datos",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kung may katanungan ka tungkol sa Patakarang ito o nais maghain ng kahilingan sa pag-access o pagbura ng datos, makipag-ugnayan sa: crystal.life.at.hk@gmail.com."
+          },
+          {
+            "type": "paragraph",
+            "text": "Magbigay ng sapat na impormasyon upang mapatunayan ang iyong pagkakakilanlan at saklaw ng kahilingan kapag nakikipag-ugnayan sa amin."
+          }
+        ]
+      },
+      {
+        "title": "14. Mga Pag-update sa Patakaran",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Maaari naming i-update ang Patakarang ito paminsan-minsan. Ang mahahalagang pagbabago ay iaanunsiyo sa loob ng Serbisyo o sa website. Maliban kung iba ang nakasaad, magkakabisa ang pag-update sa oras ng publikasyon; ang patuloy na paggamit ay nangangahulugang tinatanggap mo ang mga pagbabago."
+          }
+        ]
+      },
+      {
+        "title": "15. Pagresolba sa Alitan at Batas na Umiiral (Pandaigdigan)",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Hinihikayat namin ang maayos na pagresolba ng mga alitang may kinalaman sa privacy. Kapag nabigo ang negosasyon, pumapayag kang sumailalim sa arbitrasyon sa hurisdiksyon ng tagapagbigay. Umiiral ang mga sapilitang batas ng proteksyon ng konsyumer laban sa salungat na tuntunin."
+          }
+        ]
+      }
+    ]
+  },
+  "consent": {
+    "title": "Apendiks: Paalala ng Pahintulot (Unang-Launch na Modal para sa App/Web)",
+    "text": "Sa paggamit ng Serbisyong ito, sumasang-ayon ka sa Patakaran sa Privacy at Mga Tuntunin ng Paggamit. Kinokolekta lamang namin ang pinakamababang datos na kailangan upang maihatid ang mga tampok at hindi namin ibinebenta ang iyong personal na datos. Maaari mong tingnan ang mga patakaran at humiling ng pagbura anumang oras sa pamamagitan ng mga link sa loob ng app."
+  },
+  "contact": "Makipag-ugnayan: crystal.life.at.hk@gmail.com"
+}
+

@@ -1,0 +1,367 @@
+{
+  "language": {
+    "code": "vi",
+    "label": "Tiếng Việt"
+  },
+  "terms": {
+    "title": "Điều Khoản Sử Dụng Ai Lazy Pack",
+    "version": "Phiên bản: 1.0",
+    "effectiveDate": "Ngày hiệu lực: Vui lòng điền",
+    "notice": "Lưu ý quan trọng: Vui lòng đọc kỹ Điều khoản này trước khi sử dụng Dịch vụ. Nếu bạn không đồng ý, hãy ngừng sử dụng và gỡ cài đặt Dịch vụ ngay lập tức.",
+    "sections": [
+      {
+        "title": "1. Bản chất của Dịch vụ",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ai Lazy Pack là hộp công cụ trí tuệ nhân tạo cung cấp trò chuyện và tạo nội dung bằng nhiều mô hình AI. Mọi đầu ra đều được tạo tự động bởi thuật toán và chỉ nhằm mục đích tham khảo chung, học tập và giải trí. Dịch vụ không đưa ra bất kỳ tư vấn chuyên môn nào."
+          }
+        ]
+      },
+      {
+        "title": "2. Điều kiện người dùng",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Bạn phải đủ tuổi hợp pháp tại nơi cư trú hoặc đã được người giám hộ cho phép. Không sử dụng Dịch vụ nếu pháp luật, chính sách hoặc lệnh trừng phạt tại địa phương cấm bạn làm như vậy."
+          }
+        ]
+      },
+      {
+        "title": "3. Bảo mật tài khoản",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Bạn chịu trách nhiệm bảo vệ thông tin đăng nhập và chịu mọi hành vi, chi phí phát sinh từ tài khoản của mình. Hãy thông báo ngay cho chúng tôi nếu có sử dụng trái phép."
+          }
+        ]
+      },
+      {
+        "title": "4. Hạn mức miễn phí và nạp coin",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Dịch vụ cung cấp hạn mức miễn phí giới hạn. Khi vượt quá, bạn cần mua coin để tiếp tục sử dụng. Mọi giao dịch nạp coin đều là cuối cùng, không hoàn lại, không chuyển nhượng và không quy đổi thành tiền mặt, trừ khi pháp luật yêu cầu."
+          },
+          {
+            "type": "paragraph",
+            "text": "Coin ảo không phải tiền tệ và chỉ sử dụng trong phạm vi Dịch vụ."
+          }
+        ]
+      },
+      {
+        "title": "5. Hành vi bị cấm",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Không sử dụng Dịch vụ cho các hoạt động bất hợp pháp, xâm phạm, gian lận, lạm dụng, tấn công hệ thống hoặc tìm cách vượt qua giới hạn. Chúng tôi có quyền chấm dứt truy cập mà không cần thông báo trước."
+          }
+        ]
+      },
+      {
+        "title": "6. Trách nhiệm đối với nội dung người dùng",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Bạn chịu hoàn toàn trách nhiệm về mọi nội dung gửi lên hoặc tạo ra và cam kết không xâm phạm quyền của bên thứ ba. Chúng tôi có thể xóa nội dung vi phạm Điều khoản."
+          }
+        ]
+      },
+      {
+        "title": "7. Dịch vụ AI của bên thứ ba",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Dịch vụ có thể phụ thuộc vào các mô hình AI hoặc API bên ngoài. Tính khả dụng và kết quả của chúng nằm ngoài tầm kiểm soát hoàn toàn của chúng tôi. Chúng tôi không chịu trách nhiệm về việc gián đoạn, thay đổi hoặc nội dung do bên thứ ba cung cấp."
+          }
+        ]
+      },
+      {
+        "title": "8. Tuyên bố không phải mục đích chuyên môn",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Mọi phản hồi đều được tạo tự động và không cấu thành tư vấn y tế, pháp lý, đầu tư, tài chính, tâm lý, kỹ thuật hoặc tư vấn chuyên nghiệp khác."
+          },
+          {
+            "type": "paragraph",
+            "text": "Bạn không được dựa vào Dịch vụ để làm cơ sở ra quyết định."
+          },
+          {
+            "type": "paragraph",
+            "text": "Khi cần thiết, hãy tìm kiếm lời khuyên từ chuyên gia có chứng chỉ hợp pháp."
+          }
+        ]
+      },
+      {
+        "title": "9. Tự chịu rủi ro",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Bạn hiểu và đồng ý rằng mọi rủi ro khi sử dụng Dịch vụ—bao gồm mất dữ liệu, đánh giá sai, thiệt hại do quyết định—đều do bạn tự chịu. Chúng tôi không chịu trách nhiệm về cách sử dụng hoặc kết quả."
+          }
+        ]
+      },
+      {
+        "title": "10. Miễn trừ và từ bỏ khiếu nại toàn diện",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Trong phạm vi tối đa được pháp luật cho phép, bạn không hủy ngang từ bỏ các quyền sau:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Mọi khiếu nại, trách nhiệm hoặc kiện tụng đối với Dịch vụ hoặc nhà cung cấp.",
+              "Mọi yêu cầu buộc chúng tôi chịu trách nhiệm về thiệt hại, tổn thất, chi phí, hệ quả hoặc yêu cầu của bên thứ ba.",
+              "Mọi quyền đòi hoàn tiền, bồi thường hoặc lợi ích tài chính."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Nếu bạn không đồng ý, hãy ngừng sử dụng Dịch vụ ngay."
+          }
+        ]
+      },
+      {
+        "title": "11. Không bảo đảm, không nghĩa vụ",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Dịch vụ được cung cấp \"như hiện có\" và \"khi sẵn sàng\" mà không bảo đảm về độ chính xác, tính liên tục, sự phù hợp hoặc độ tin cậy của kết quả."
+          },
+          {
+            "type": "paragraph",
+            "text": "Chúng tôi không có nghĩa vụ đáp ứng bất kỳ kỳ vọng hoặc mục đích sử dụng cụ thể nào."
+          }
+        ]
+      },
+      {
+        "title": "12. Thông tin về nhà cung cấp (Quan trọng)",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ai Lazy Pack do cá nhân cung cấp, không có giấy phép chuyên môn và không đóng vai trò người được ủy thác, đại lý hoặc cố vấn."
+          },
+          {
+            "type": "paragraph",
+            "text": "Nhà cung cấp không chịu bất kỳ trách nhiệm nghề nghiệp nào."
+          }
+        ]
+      },
+      {
+        "title": "13. Thay đổi hoặc chấm dứt Dịch vụ",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Chúng tôi có thể sửa đổi, hạn chế, tạm ngưng hoặc chấm dứt Dịch vụ bất cứ lúc nào mà không cần báo trước."
+          }
+        ]
+      },
+      {
+        "title": "14. Giải quyết tranh chấp",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Nếu phát sinh tranh chấp, các bên trước tiên cần thương lượng thiện chí. Nếu không thành, tranh chấp sẽ do tổ chức trọng tài tại nơi nhà cung cấp đặt trụ sở xử lý."
+          }
+        ]
+      },
+      {
+        "title": "15. Cập nhật Điều khoản",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Chúng tôi có thể cập nhật Điều khoản theo từng thời điểm. Phiên bản mới nhất được công bố trong Dịch vụ là bản có hiệu lực. Việc tiếp tục sử dụng đồng nghĩa với việc bạn chấp nhận cập nhật."
+          }
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Chính Sách Quyền Riêng Tư của Ai Lazy Pack",
+    "version": "Phiên bản: 1.0",
+    "effectiveDate": "Ngày hiệu lực: Vui lòng điền",
+    "updatedDate": "Lần cập nhật gần nhất: Vui lòng điền",
+    "intro": "Chính sách này giải thích cách Ai Lazy Pack (\"Dịch vụ\") thu thập, sử dụng, lưu trữ, chia sẻ và bảo vệ dữ liệu của bạn. Khi sử dụng hoặc tiếp tục sử dụng Dịch vụ, bạn xác nhận đã đọc, hiểu và đồng ý với Chính sách. Nếu không đồng ý, vui lòng không sử dụng Dịch vụ.",
+    "sections": [
+      {
+        "title": "1. Phạm vi áp dụng",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Chính sách áp dụng khi bạn sử dụng Dịch vụ (ứng dụng di động, trang web hoặc API). Chính sách không bao gồm tương tác của bạn với bên thứ ba hoặc thực tiễn quyền riêng tư của họ (ví dụ: nhà cung cấp AI bên ngoài, dịch vụ thanh toán, dịch vụ đám mây)."
+          }
+        ]
+      },
+      {
+        "title": "2. Dữ liệu chúng tôi thu thập (Nguyên tắc tối thiểu)",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Chúng tôi chỉ thu thập lượng dữ liệu tối thiểu cần thiết để cung cấp Dịch vụ, thường bao gồm:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Thông tin thiết bị và kỹ thuật (có thể được ẩn danh): như phiên bản hệ thống, kiểu thiết bị, ngôn ngữ và khu vực gần đúng; dùng để ngăn ngừa lạm dụng, quản lý rủi ro an ninh và cải thiện ổn định.",
+              "Nhật ký sử dụng: như số lượt trò chuyện, cách sử dụng tính năng, lịch sử nạp và tiêu coin, nhật ký lỗi; dùng để cung cấp, duy trì tính năng, xử lý sự cố và hỗ trợ khách hàng.",
+              "Nội dung bạn cung cấp: văn bản, tệp hoặc tài liệu khác nhập vào Dịch vụ (\"Nội dung người dùng\"), chỉ dùng để tạo phản hồi và cung cấp chức năng bạn yêu cầu."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Chúng tôi không cố ý thu thập tên thật, số định danh, vị trí chính xác, số thẻ ngân hàng hoặc thông tin nhận dạng cá nhân không cần thiết. Thanh toán do bên thứ ba xử lý; chúng tôi không truy cập hoặc lưu trữ đầy đủ dữ liệu thẻ thanh toán."
+          }
+        ]
+      },
+      {
+        "title": "3. Cách chúng tôi sử dụng dữ liệu",
+        "content": [
+          {
+            "type": "list",
+            "items": [
+              "Cung cấp, vận hành và cải thiện Dịch vụ (ví dụ: tạo phản hồi AI, tính toán mức sử dụng và phát hiện bất thường).",
+              "Ngăn ngừa lạm dụng, gian lận hoặc sự cố an ninh (ví dụ: vượt hạn mức miễn phí hoặc tấn công hệ thống).",
+              "Tuân thủ nghĩa vụ pháp lý hoặc bảo vệ người dùng và an toàn cộng đồng.",
+              "Thực hiện phân tích ẩn danh và tổng hợp (không xác định người dùng cá nhân) để cải thiện trải nghiệm và hiệu suất."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Dịch vụ bên thứ ba và chuyển dữ liệu xuyên biên giới",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Chúng tôi có thể sử dụng nhà cung cấp mô hình AI, lưu trữ đám mây hoặc dịch vụ thanh toán của bên thứ ba. Các bên này hoạt động theo điều khoản và chính sách riêng và có thể đặt tại quốc gia khác. Khi bạn sử dụng Dịch vụ, dữ liệu có thể được chuyển hoặc xử lý xuyên biên giới. Chúng tôi chỉ tương tác với bên thứ ba khi cần thiết để cung cấp chức năng và cố gắng đảm bảo ràng buộc hợp đồng để bảo vệ dữ liệu."
+          }
+        ]
+      },
+      {
+        "title": "5. Cookie và công nghệ theo dõi",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Nếu trang web sử dụng cookie hoặc công nghệ tương tự, chúng chỉ phục vụ các mục đích thiết yếu như duy trì phiên đăng nhập, tùy chọn ngôn ngữ và bảo mật. Chúng tôi không theo dõi quảng cáo dựa trên hành vi."
+          }
+        ]
+      },
+      {
+        "title": "6. Thời gian lưu trữ dữ liệu",
+        "content": [
+          {
+            "type": "list",
+            "items": [
+              "Nội dung người dùng: có thể được lưu ngắn hạn để cung cấp phản hồi và khắc phục sự cố, sau đó sẽ bị xóa hoặc ẩn danh khi đạt mục đích.",
+              "Nhật ký sử dụng và giao dịch: được lưu trong thời gian cần thiết để ngăn lạm dụng, đối soát hoặc tuân thủ pháp luật, rồi bị xóa hoặc ẩn danh."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Thời gian lưu trữ thay đổi tùy loại dữ liệu, mục đích, yêu cầu pháp lý và nhu cầu vận hành, tuân theo nguyên tắc tối thiểu hóa."
+          }
+        ]
+      },
+      {
+        "title": "7. Bảo mật dữ liệu",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Chúng tôi áp dụng các biện pháp kỹ thuật và tổ chức hợp lý, tương xứng (như kiểm soát truy cập, mã hóa, kiểm toán, sao lưu) để bảo vệ dữ liệu. Tuy nhiên, không hệ thống nào đảm bảo an toàn tuyệt đối; bạn chấp nhận rủi ro vốn có của việc truyền dữ liệu qua Internet."
+          }
+        ]
+      },
+      {
+        "title": "8. Người dùng chưa thành niên",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Dịch vụ không dành cho người dùng dưới 18 tuổi. Nếu phát hiện người chưa thành niên cung cấp dữ liệu hoặc sử dụng Dịch vụ, chúng tôi sẽ thực hiện các bước hợp lý để hạn chế và xóa dữ liệu hoặc tài khoản nếu cần."
+          }
+        ]
+      },
+      {
+        "title": "9. Quyền của bạn",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Theo luật hiện hành (ví dụ: GDPR, PDPA, CCPA, PDPO...), bạn có thể có quyền truy cập, chỉnh sửa, xóa, hạn chế xử lý, nhận bản sao, phản đối xử lý hoặc rút lại sự đồng ý. Chúng tôi sẽ phản hồi trong thời gian hợp lý và xử lý yêu cầu theo quy định pháp luật."
+          },
+          {
+            "type": "paragraph",
+            "text": "Chúng tôi có thể yêu cầu xác minh danh tính trước khi xử lý yêu cầu nhằm bảo vệ an ninh tài khoản."
+          }
+        ]
+      },
+      {
+        "title": "10. Những điều chúng tôi không làm",
+        "content": [
+          {
+            "type": "list",
+            "items": [
+              "Không bán dữ liệu cá nhân của bạn.",
+              "Không chia sẻ dữ liệu cá nhân cho quảng cáo hành vi đa trang.",
+              "Không xử lý dữ liệu trái với Chính sách này."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "11. Cơ sở pháp lý",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Chúng tôi thường xử lý dữ liệu dựa trên ít nhất một cơ sở pháp lý: thực hiện hợp đồng (cung cấp tính năng bạn yêu cầu), có được sự đồng ý của bạn, theo đuổi lợi ích hợp pháp (vận hành, chống gian lận, bảo mật) hoặc tuân thủ nghĩa vụ pháp lý (trả lời cơ quan chức năng)."
+          }
+        ]
+      },
+      {
+        "title": "12. Miễn trừ đối với nội dung và dịch vụ bên thứ ba",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Các dịch vụ AI, đám mây hoặc thanh toán của bên thứ ba tự chịu trách nhiệm về tính sẵn có, độ chính xác, tính hợp pháp và tuân thủ của họ. Chúng tôi không chịu trách nhiệm cho bất kỳ nội dung, lỗi, gián đoạn, chậm trễ hoặc thiệt hại nào do họ gây ra."
+          }
+        ]
+      },
+      {
+        "title": "13. Liên hệ và yêu cầu dữ liệu",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Nếu bạn có câu hỏi về Chính sách hoặc muốn yêu cầu truy cập/xóa dữ liệu, vui lòng liên hệ: crystal.life.at.hk@gmail.com."
+          },
+          {
+            "type": "paragraph",
+            "text": "Khi liên hệ, hãy cung cấp đủ thông tin để xác minh danh tính và phạm vi yêu cầu của bạn."
+          }
+        ]
+      },
+      {
+        "title": "14. Cập nhật chính sách",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Chúng tôi có thể cập nhật Chính sách theo định kỳ. Những thay đổi quan trọng sẽ được thông báo trong Dịch vụ hoặc trên trang web. Trừ khi có thông báo khác, cập nhật có hiệu lực ngay khi công bố; tiếp tục sử dụng đồng nghĩa với việc bạn chấp nhận các thay đổi."
+          }
+        ]
+      },
+      {
+        "title": "15. Giải quyết tranh chấp và luật điều chỉnh (Toàn cầu)",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Chúng tôi khuyến khích giải quyết tranh chấp về quyền riêng tư bằng thiện chí. Nếu đàm phán thất bại, bạn đồng ý trọng tài tại nơi nhà cung cấp đặt trụ sở. Các quy định bảo vệ người tiêu dùng mang tính bắt buộc sẽ được ưu tiên nếu có mâu thuẫn."
+          }
+        ]
+      }
+    ]
+  },
+  "consent": {
+    "title": "Phụ lục: Thông báo Chấp thuận (Hộp thoại lần đầu cho App/Web)",
+    "text": "Khi sử dụng Dịch vụ này, bạn đồng ý với Chính Sách Quyền Riêng Tư và Điều Khoản Sử Dụng. Chúng tôi chỉ thu thập lượng dữ liệu tối thiểu để cung cấp tính năng và không bán dữ liệu cá nhân của bạn. Bạn có thể xem lại chính sách và yêu cầu xóa dữ liệu bất cứ lúc nào qua liên kết trong ứng dụng."
+  },
+  "contact": "Liên hệ: crystal.life.at.hk@gmail.com"
+}
+
